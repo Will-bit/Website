@@ -1,0 +1,56 @@
+
+#will {
+  color:white;
+}
+.container {
+  display: flex;
+  color: white;
+  margin-left: 5
+
+}
+
+.container1{
+  flex-wrap: wrap;
+}
+
+.container2{
+  align-content: center;
+}
+
+
+.will {
+  color:white
+}
+
+.test {
+  width: 100px;
+  height: 100px
+  margin: auto;
+
+}
+
+.block{
+  float:left;
+  width:640%;
+  padding:10px;
+  flex-wrap: wrap;
+  margin-left: 5
+  border:1px; solid: #ccc
+
+  box-string:border-box
+
+  ;
+
+}
+
+.button{
+  border: 1px solid white;
+  padding: 10px;
+  color: white;
+  background-color: transparent;
+
+}
+
+{
+  color:white
+}
